@@ -1,0 +1,5 @@
+model,n,exact,alternative_accepted,total_accepted,acceptability
+GPT-OSS-20B,107,62,11,73,0.6822429906542056
+DeepSeek-V4-Flash,107,87,4,91,0.8504672897196262
+Qwen3-32B,107,72,8,80,0.7476635514018691
+Gemma3-27B,107,75,7,82,0.7663551401869159

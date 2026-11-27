@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.xlsx
+!inference/data/corpus_107.xlsx
+!evaluation/data/corpus complet.xlsx
+!evaluation/result/alignments.xlsx
+!evaluation/result/evaluation_llm.xlsx
+inference/result/
+reproduction/
+evaluation/data/test_*
+evaluation/result/test_*
+create_test_data.py
