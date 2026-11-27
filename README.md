@@ -1,2 +1,2 @@
 # french-llm-evaluation
-Comparative evaluation of large language models for minimal grammatical error correction in French relative clauses using Python, Stanza and linguistic error analysis.
+Master's research project on French grammatical error correction using LLMs, synthetic data augmentation, Stanza, token-level alignment and human-in-the-loop evaluation.
